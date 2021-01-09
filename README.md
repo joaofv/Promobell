@@ -7,6 +7,7 @@
       <br />
       Promobell
     </h1>
+    <h4>The most powerful platform to sell your things :).</h4>
   </p>
 </div>
 
