@@ -7,7 +7,7 @@
       <br />
       Promobell
     </h1>
-    <h4>The most powerful Ecommerce platform you ever wanted.</h4>
+    <h4>The most powerful Ecommerce platform you can imagine.</h4>
   </p>
 </div>
 
