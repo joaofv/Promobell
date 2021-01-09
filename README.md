@@ -1,5 +1,4 @@
-
-![(Promobell/logo_bell.png)]
+![Screenshot](Promobell/Imagens/logo_promobell.png)
 
 # Promobell
 
