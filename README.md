@@ -23,4 +23,4 @@ Esse projeto está sendo desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-O Promobell é uma aplicação que conecta pessoas com ofertas de produtos 💜.
+O Promobell é uma aplicação que conecta pessoas com os produtos 💜.
