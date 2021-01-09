@@ -1,5 +1,5 @@
 
-![alt text](Promobell/logo_bell.png)
+!(Promobell/logo_bell.png)
 
 # Promobell
 
