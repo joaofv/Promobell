@@ -21,3 +21,6 @@ Esse projeto está sendo desenvolvido com as seguintes tecnologias:
 - [Expo](https://expo.io/)
 - [TypeScript](https://www.typescriptlang.org/)
 
+## 💻 Projeto
+
+O Promobell é uma aplicação que conecta pessoas com ofertas de produtos 💜.
